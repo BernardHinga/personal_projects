@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+#form {
+    position: absolute;
+    margin: 25%;
+    margin-top: 15%;
+    border-radius: 30px;
+    border-color: rgb(0, 255, 255);
+    background-color: gray;
+}
+
+#form form {
+    padding: 20px;
+}
+
+#form input {
+    margin: 10px;
+    border-radius: 10px;
+    border-color: rgb(0, 255, 255);
+    text-align: center;
+}
+
+::placeholder {
+    padding: 5px;
+    text-align: center;
+}
+
+button {
+    border-radius: 15px;
+    border-color: rgb(0, 255, 98);
+    background-color: aqua;
+    color: black;
+    height: 40px;
+    width: 80px;
+    margin-left: 40%;
+    margin-right: 50%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+#calc {
+    background-color: aliceblue;
+}
